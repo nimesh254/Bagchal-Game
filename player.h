@@ -5,8 +5,8 @@
 #include "ai.h"
 using namespace std;
 
-// Player input functions
-Move playerMoveGoat(vector<vector<char>> &board, bool placementPhase);
+// Player input
+Move playerMoveGoat(vector<vector<char>> &board,bool placementPhase);
 Move playerMoveTiger(vector<vector<char>> &board);
 
 #endif

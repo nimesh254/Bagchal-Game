@@ -4,8 +4,6 @@
 #include <vector>
 using namespace std;
 
-const int SIZE = 5;
-
 struct Move{
     int r1,c1,r2,c2;
     bool capture;
